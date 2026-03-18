@@ -77,9 +77,9 @@ else:
                 print("No, 2 in h.")
 
 i="4+4"
-if "4" not in txt:
-                print("Yes, 4 not in txt.")
+if "4" not in i:
+                print("Yes, 4 not in i.")
 else:
-                print("No, 4 not in txt.")
+                print("No, 4 not in i.")
         
 
