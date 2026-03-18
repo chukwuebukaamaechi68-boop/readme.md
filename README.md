@@ -60,9 +60,9 @@ else:
 
 #if statements(for if in sentence or not)
 print({"If statements (for if in sentence or not"})
-y="I am going to Paris one day."
-if "am" in y:
-                print("Yes, am in y.")
+y="Good morning."
+if "morning" in y:
+                print("Yes, morning in y.")
 
 z="Launch pad"
 if "dozens" in z:
@@ -88,6 +88,10 @@ if "5" not in o:
 else:
                 print("No, 5 not in o.")
                 
+ 
+        
+
+
  
         
 
